@@ -7,3 +7,5 @@
 7. git commit -m "": đưa các file có sự thay đổi vào local respon
 8. git config --global user.email "": set email
 9. git config --global user.name "": set name
+10. git branch [tên branch]: tạo nhánh
+    hoặc git checkout [Tên branch]: chuyển sang làm việc trên nhánh.
