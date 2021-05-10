@@ -4,4 +4,6 @@
 4. git add . : đưa tất cả các file có sự thay đổi so với file trước vào vùng staging
 5. git add [tên file]: đưa 1 file có sự thay đổi vào vùng staging
 6. git rm --cached [Tên file]: đưa 1 file từ staging quay trở lại working directory
-7. git commit: đưa vào local respon
+7. git commit -m "": đưa các file có sự thay đổi vào local respon
+8. git config --global user.email "": set email
+9. git config --global user.name "": set name
